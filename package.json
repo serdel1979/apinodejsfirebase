@@ -1,0 +1,26 @@
+{
+  "name": "firebase-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serdel1979/apinodejsfirebase.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/serdel1979/apinodejsfirebase/issues"
+  },
+  "homepage": "https://github.com/serdel1979/apinodejsfirebase#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.1",
+    "firebase-admin": "^9.5.0",
+    "morgan": "^1.10.0"
+  }
+}
